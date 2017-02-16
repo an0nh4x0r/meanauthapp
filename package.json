@@ -1,0 +1,20 @@
+{
+  "name": "meanauthapp",
+  "version": "1.0.0",
+  "description": "MEAN Stack authentication app.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/an0nh4x0r/meanauthapp.git"
+  },
+  "author": "Swapnil Singh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/an0nh4x0r/meanauthapp/issues"
+  },
+  "homepage": "https://github.com/an0nh4x0r/meanauthapp#readme"
+}
