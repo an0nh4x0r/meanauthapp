@@ -9,7 +9,11 @@ const app = express();
 
 const port = 3000;
 
+// cors middleware
 app.use(cors());
+
+// body-parse middleware
+app.use(bodyParser.json());
 
 app.get('/', (req, res) => {
     res.send('Invalid Endpoint.');
